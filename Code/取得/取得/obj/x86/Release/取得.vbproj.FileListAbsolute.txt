@@ -1,0 +1,53 @@
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\bin\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\bin\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\bin\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\bin\Release\NDde.dll
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.vbprojResolveAssemblyReference.cache
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.Resources.resources
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.vbproj.GenerateResource.Cache
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver1.30\Code\取得\取得\obj\x86\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\bin\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\bin\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\bin\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\bin\Release\NDde.dll
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.vbprojResolveAssemblyReference.cache
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.Resources.resources
+D:\DaichiBox\My Projects\Screening\Screening ver2.00\Code\取得\取得\obj\x86\Release\取得.vbproj.GenerateResource.Cache
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\bin\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\bin\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\bin\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\bin\Release\NDde.dll
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.vbprojResolveAssemblyReference.cache
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.Resources.resources
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.vbproj.GenerateResource.Cache
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening ver2.01\Code\取得\取得\obj\x86\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\bin\Release\取得.exe
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\bin\Release\取得.pdb
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\bin\Release\取得.xml
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\bin\Release\NDde.dll
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.vbprojResolveAssemblyReference.cache
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.Resources.resources
+D:\DaichiBox\My Projects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.vbproj.GenerateResource.Cache
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.exe
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.xml
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.pdb
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\bin\Release\取得.exe
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\bin\Release\取得.pdb
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\bin\Release\取得.xml
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\bin\Release\NDde.dll
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.vbprojResolveAssemblyReference.cache
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.Resources.resources
+I:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.vbproj.GenerateResource.Cache
+F:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.exe
+F:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.xml
+F:\DaichiBox\MyProjects\Screening\Screening\@Code\取得\取得\obj\x86\Release\取得.pdb
